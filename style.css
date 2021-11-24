@@ -3,9 +3,19 @@ body { background-color: cornsilk;
 }
 
 
-.h1 (
+.white-box {
+    background-color: white;
+    color: white;
+}
     
     
+.blue-box {
+    background-color: cornflowerblue;
+    color: black;
 
+}
 
-)
+.white-box {
+    background-color: white;
+    color: white;
+}
