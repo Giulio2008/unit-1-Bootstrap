@@ -15,7 +15,10 @@ body { background-color: cornsilk;
 
 }
 
-.white-box {
+.white-box{
     background-color: white;
     color: white;
+}
+.table {
+    min-width: 0pxs;
 }
